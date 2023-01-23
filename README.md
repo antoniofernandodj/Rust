@@ -201,3 +201,18 @@ And to become an advanced rust programmer you must attent to these following top
 23. Write a program that takes a number as input, and implements a parallel version of the greatest common divisor (GCD) algorithm using Rust's threading features.
 24. Write a program that takes a sentence as input, and implements a multi-threaded version of the punctuation remover using Rust's threading features
 25. Write a program that takes a number as input, and implements a parallel version of the least common multiple (LCM)
+
+```
+…or create a new repository on the command line
+echo "# Rust" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/antoniofernandodj/Rust.git
+git push -u origin main
+…or push an existing repository from the command line
+git remote add origin https://github.com/antoniofernandodj/Rust.git
+git branch -M main
+git push -u origin main
+```
