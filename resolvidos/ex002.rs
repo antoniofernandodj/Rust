@@ -1,4 +1,4 @@
-// Programa que gera numeros sorteados
+// Program that generates random numbers
 
 use rand::Rng;
 use std::io;

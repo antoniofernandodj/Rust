@@ -80,11 +80,11 @@ And to become an advanced rust programmer you must attent to these following top
 
 ## Begginer
 
-1. Write a program that takes two numbers as input, and prints the sum, difference, product, and quotient of the numbers.
-2. Write a program that takes a string as input, and prints the string in reverse.
-3. Write a program that takes a number as input, and prints whether the number is even or odd.
-4. Write a program that takes a number as input, and prints the factorial of that number.
-5. Write a program that takes a sentence as input, and prints the number of vowels and consonants in the sentence.
+
+2. 
+
+
+
 6. Write a program that takes a number as input, and prints the Fibonacci sequence up to that number.
 7. Write a program that takes a number as input, and prints the prime factors of that number.
 8. Write a program that takes a sentence as input, and replaces all occurrences of a certain word with another word.

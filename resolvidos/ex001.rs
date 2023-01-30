@@ -1,4 +1,4 @@
-// Programa simples que lê numeros na stdin e retorna a data formatada
+// Simple program that reads numbers from stdin and returns a formatted date
 
 use std::io;
 use std::io::Write;
